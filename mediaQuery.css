@@ -1,0 +1,33 @@
+ @media(max-width: 700px){
+    .adote{
+        display: none;
+    }
+    .nav{
+        flex-direction: column;
+        width: 100%;
+    }
+}
+/* @media(min-width:320px){
+    .adote{
+        display: none;
+    }
+    .nav{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 100%;
+        background-color: #fffbb7;
+    } */
+/@media( min-width:375px){
+        .adote{
+            display:none
+        }
+        .nav{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            background-color: #f2e5f9; 
+            color: blue; 
+        }
+    } 
+     
