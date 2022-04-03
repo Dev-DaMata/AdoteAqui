@@ -38,6 +38,13 @@ header{
     align-items: flex-start; 
     margin-bottom: 2px;
     text-align: center;
+
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Send Flowers', cursive;
 } 
 .nav{
     background-color: chocolate;
@@ -53,6 +60,11 @@ header{
     text-decoration: none;
     text-align: center;
     font-size: 25px;
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Send Flowers', cursive;
 }
 .titulo{
     text-align: center;
@@ -61,27 +73,37 @@ header{
 .sobre{
     text-align: center;
     margin-left: 10px;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .caramelo{
     display: flex;
     border-radius: 50%;
     margin-bottom: 50px;
+    text-align: center;
 }
 .fotodog{
     border-radius: 50%;
-    
+    text-align: center;
 }
 .gatos{
     display: flex;
     border-radius: 50%;
+    border
+    text-align: center;
+}
+.nome{
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
  .adote:hover{
   transform: scale(1.1);
   transform: rotate(360deg);
   transform: scale(0.1s);
-  /* transform: skewY(20deg); */
-  /* transform: scaleY(1.5); */
   background-color: #ff695c;
 
 }
